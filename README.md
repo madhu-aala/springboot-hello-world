@@ -1,5 +1,10 @@
 # 🌱 Spring Boot Hello World
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=madhu-aala.springboot-hello-world)
+![Code Size](https://img.shields.io/github/languages/code-size/madhu-aala/springboot-hello-world)
+![Repo Size](https://img.shields.io/github/repo-size/madhu-aala/springboot-hello-world)
+![Last Commit](https://img.shields.io/github/last-commit/madhu-aala/springboot-hello-world)
+
 ## 📌 Description
 
 This project is a basic Spring Boot application that demonstrates how to set up a REST API and create a simple endpoint. It serves as a starting point for building more complex Spring Boot applications.
